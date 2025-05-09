@@ -1,0 +1,76 @@
+.top-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 40px;
+  font-family: sans-serif;
+}
+
+.left-section,
+.center-section,
+.right-section {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  height: 40px;
+  margin-right: 20px;
+}
+
+.location-info p {
+  margin: 0;
+  font-size: 14px;
+  color: #666;
+}
+
+.weather {
+  display: flex;
+  align-items: center;
+  margin-left: 20px;
+}
+
+.weather img {
+  width: 20px;
+  margin-right: 5px;
+}
+
+.center-section .link {
+  display: flex;
+  align-items: center;
+  margin: 0 10px;
+  font-size: 14px;
+  color: #333;
+  text-decoration: none;
+}
+
+.center-section img {
+  width: 20px;
+  margin-right: 5px;
+}
+
+.divider {
+  color: #ccc;
+  margin: 0 5px;
+}
+
+.right-section a {
+  display: flex;
+  align-items: center;
+  margin-left: 20px;
+  color: #666;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.right-section img {
+  width: 20px;
+  margin-right: 5px;
+}
+.menu {
+  margin-left: 50px;
+}
+.menu2 {
+  margin: 10px;
+  font-style: normal;
+}
